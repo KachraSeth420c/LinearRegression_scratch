@@ -1,1 +1,1 @@
-# LinearRegression_scratch
+# LinearRegression_FromScratch
